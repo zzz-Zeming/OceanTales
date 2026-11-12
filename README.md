@@ -6,7 +6,7 @@
 作为新晋渔夫，你要从海岸线出发，一路钓向深海，捕捉全世界最稀有的鱼，
 重新点亮这座水族馆，并集齐《全鱼类图鉴》。
 
-**🌐 作品集页面：<https://zzz-zeming.github.io/OceanTales/>** ｜ **🎬 演示视频：<https://www.bilibili.com/video/BV1fPW96kE2W/>**
+**🎮 在线试玩：<https://zzzzeming.itch.io/oceantales>** ｜ **🌐 作品集页面：<https://zzz-zeming.github.io/OceanTales/>** ｜ **🎬 演示视频：<https://www.bilibili.com/video/BV1fPW96kE2W/>**
 
 ---
 
