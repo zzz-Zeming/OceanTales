@@ -8,6 +8,8 @@
 
 > 策划案中的作品名为《OceanTales》，工程与仓库沿用了 **OceanStories** 这个名字。
 
+**🌐 作品集页面：<https://zzz-zeming.github.io/OceanStories/>**
+
 ---
 
 ## 玩法循环
