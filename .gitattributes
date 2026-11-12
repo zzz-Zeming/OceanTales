@@ -1,0 +1,42 @@
+# 统一按 LF 存储，避免 Windows 上反复出现 "LF will be replaced by CRLF" 的噪音
+* text=auto eol=lf
+
+# 代码 / Unity 文本资源：可正常 diff
+*.cs       text diff=csharp
+*.shader   text
+*.hlsl     text
+*.cginc    text
+*.compute  text
+*.unity    text
+*.prefab   text
+*.asset    text
+*.mat      text
+*.meta     text
+*.json     text
+*.xml      text
+*.txt      text
+*.md       text
+*.asmdef   text
+*.shadergraph text
+
+# 二进制：禁止任何换行符转换
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.tga      binary
+*.psd      binary
+*.exr      binary
+*.hdr      binary
+*.fbx      binary
+*.obj      binary
+*.blend    binary
+*.mp3      binary
+*.wav      binary
+*.ogg      binary
+*.ttf      binary
+*.otf      binary
+*.dll      binary
+*.so       binary
+*.a        binary
+*.zip      binary
+*.unitypackage binary
